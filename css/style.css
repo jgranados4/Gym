@@ -113,6 +113,12 @@
      width: 100%;
      height: auto;
 }
+/*Entrenamiento*/
+.Entrenamiento{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 30px;
+}
  :focus {
      outline: 0;
 }
